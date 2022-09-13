@@ -1,3 +1,20 @@
-                        <h6>Edureka training for SQL Essentials<h6>
+<h6>Edureka training for SQL Essentials<h6>
 
 <h5>Assignment I<h5>
+
+Perform the following in SQL:
+
+<p>1 - Insert new record in employee table with following:
+ valuesEmp_id = 1009, 
+ First_Name = ‘Riccky’ , 
+ Last_Name = ‘Lawrence’ , 
+ mgr_id = 1005, depno = 40 ,
+ salary = 50,000</p>
+
+ Note: you can add more such values to populate the table.
+ 
+ <p>2 -Delete record from employee where salary >= 40000.</p>
+ 
+ <p>3 -Update First_Name and Last_Name in employee table where emp_id = 1005 and mgr_id = 1004.</p>
+ 
+ <p>4 -Select the record from employee whose last name starts with ‘B’ or ‘F’.</p>

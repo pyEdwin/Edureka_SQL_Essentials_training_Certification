@@ -18,3 +18,14 @@ Perform the following in SQL:
  <p>3 -Update First_Name and Last_Name in employee table where emp_id = 1005 and mgr_id = 1004.</p>
  
  <p>4 -Select the record from employee whose last name starts with ‘B’ or ‘F’.</p>
+
+<h5>Assignment II<h5>
+
+Use following Joins to retrieve data from table
+
+<p> Retrieve data from table using self-join </p>
+
+•<p>Retrieve data from employee and department table using inner Join</P>
+<p> Retrieve data from employee and department table using left join</p>
+<p> Retrieve data from employee and department table using right join</p>
+<p>Join two table using cross join</p>

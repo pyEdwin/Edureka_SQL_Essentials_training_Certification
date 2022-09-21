@@ -25,7 +25,7 @@ Use following Joins to retrieve data from table
 
 <p> Retrieve data from table using self-join </p>
 
-•<p>Retrieve data from employee and department table using inner Join</P>
+<p>Retrieve data from employee and department table using inner Join</P>
 <p> Retrieve data from employee and department table using left join</p>
 <p> Retrieve data from employee and department table using right join</p>
 <p>Join two table using cross join</p>
@@ -34,6 +34,6 @@ Use following Joins to retrieve data from table
 
 Perform the following in SQL
 
-<p>Determine the Count of rows satisfying certain condition<p>
+<p>Determine the Count of rows satisfying certain condition</p>
 <p>Determine average of a column</p>
 <p>Determine Sum of a column</p>

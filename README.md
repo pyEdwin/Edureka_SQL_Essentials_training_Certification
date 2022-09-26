@@ -37,3 +37,13 @@ Perform the following in SQL
 <p>Determine the Count of rows satisfying certain condition</p>
 <p>Determine average of a column</p>
 <p>Determine Sum of a column</p>
+
+
+<h5>Assignment IV<h5>
+
+Execute the following in SQL
+
+<p>Create Functions</p>
+<p>Create Triggers</p>
+<p>Create and Execute Stored Procedure</p>
+
